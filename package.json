@@ -1,0 +1,21 @@
+{
+  "name": "october-in-oslo-vs-code-theme",
+  "displayName": "October in Oslo VS Code theme",
+  "description": "Dark theme in blue tones",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "October in Oslo VS Code theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/October in Oslo VS Code theme-color-theme.json"
+      }
+    ]
+  }
+}
