@@ -6,6 +6,8 @@
   "engines": {
     "vscode": "^1.94.0"
   },
+  "publisher": "salnikov",
+  "repository": "https://github.com/webmaxru/october-in-oslo-vs-code-theme",
   "categories": [
     "Themes"
   ],
